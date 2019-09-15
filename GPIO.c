@@ -17,3 +17,4 @@ int main(void)
  	GPIO_SetBits(GPIOD,GPIO_Pin_12);
     }
 }
+
